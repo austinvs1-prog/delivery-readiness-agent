@@ -24,6 +24,7 @@ budget_manager = ContextBudgetManager()
 def _emit_agent_output(context: SharedContext, agent_id: str, content: dict[str, Any], max_budget: int) -> AgentOutput:
     context = budget_manager.ensure_budget(context, agent_id, max_budget)
     used = budget_manager.used_tokens(context)
+    remaining = budget_manager.remaining_tokens(context, max_budget)
     output = AgentOutput(
         agent_id=agent_id,
         content=content,
@@ -36,7 +37,7 @@ def _emit_agent_output(context: SharedContext, agent_id: str, content: dict[str,
         agent_id,
         "agent_output",
         payload=content,
-        output_payload=content,
+        payload={**content, "remaining_context_budget": remaining},
         token_count=used,
     )
     for token in str(content).split():
