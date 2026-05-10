@@ -1,0 +1,251 @@
+Inspection ID,Inspector Name,Pass/Fail,Free Text,Gate Captured,Gate Missed,Part Cost,Labor Time,Labor Cost,Plant,Part SN,VIN,Customer,Dangerous Issue Flag,Inspection Date,Rework Date
+DRI-202604-0001,Farhan Ali,Fail,seat latch not closing flush,EOL2,TRIM1,0.0,0.5,225.0,Chennai Plant,7957316436,4HVTDYW2UTCW2L413,Jupiter Motors,N,2026-04-30,2026-05-01
+DRI-202604-0002,Manoj Pillai,Pass,Final check clear,EOL2,,0.0,0.0,0.0,Pune Plant,7529793398,RC6KUVFNLKVSL0G7A,MetroMoto,N,2026-04-24,
+DRI-202604-0003,Farhan Ali,Fail,oil seep at engine cover,FQA1,ENG1,420.0,0.75,337.5,Pune Plant,8355554562,ZL2LD15NHSS6E7SNE,Indigo Rides,Y,2026-04-21,2026-04-22
+DRI-202604-0004,Zoya Khan,Fail,side panel scuffed,FQA1,FIT3,0.0,0.5,225.0,Pune Plant,4660410361,HN3YT838AMM0PGYU8,MetroMoto,N,2026-04-18,2026-04-20
+DRI-202604-0005,Aditi Rao,Fail,front brake hose kinked,FQA1,BRAKE1,720.0,1.0,450.0,Chennai Plant,2691911008,LY6B13B7ZJNY06ZUH,Delta Wheels,Y,2026-04-01,2026-04-03
+DRI-202604-0006,Farhan Ali,Fail,chain off center at rear sprocket,PDI2,DRIV1,0.0,0.75,337.5,Hosur Plant,7878092406,B2M3P55HYWA2NLBUE,Eastway Motors,Y,2026-04-08,2026-04-09
+DRI-202604-0007,Pranav Kulkarni,Fail,seat gap high on right side,FQA1,TRIM1,0.0,0.5,225.0,Chennai Plant,3390012828,14VYH9A2F7JTDLK9E,Delta Wheels,N,2026-04-30,2026-05-04
+DRI-202604-0008,Aarav Nair,Fail,footrest bracket screw loose,FQA1,FIT2,0.0,0.25,112.5,Chennai Plant,5751180577,84FC4YR8WA9Y8L118,Falcon Fleet,N,2026-04-07,2026-04-09
+DRI-202604-0009,Deepa Krishnan,Fail,horn harness pinched,ROAD1,ELEC1,340.0,0.75,337.5,Hosur Plant,9644630266,9U9GBN5DLB45L6D21,Apex Moto,N,2026-04-25,2026-04-28
+DRI-202604-0010,Tanvi Shah,Fail,rear grab rail bolt loose,FQA1,FIT2,0.0,0.25,112.5,Pune Plant,3747921408,10XVGZXM7T7NBNSBN,Helix Mobility,N,2026-04-23,2026-04-24
+DRI-202604-0011,Tarun Patel,Fail,exposed wire near battery,PDI2,ELEC2,420.0,1.0,450.0,Pune Plant,6228372352,DEPZVR7BD4X2ATAFC,Helix Mobility,Y,2026-04-29,2026-04-30
+DRI-202604-0012,Siddharth Rao,Fail,front brake hose kinked,EOL2,BRAKE1,720.0,1.0,450.0,Hosur Plant,1013343914,GGBV9UC0W30R4JVX7,GrandTrail,Y,2026-04-16,2026-04-19
+DRI-202604-0013,Rhea Dsouza,Fail,indicator connector half seated,FQA1,ELEC2,0.0,0.5,225.0,Pune Plant,7392485211,Z0SHH5X7N0Y36RASM,Delta Wheels,N,2026-04-06,2026-04-11
+DRI-202604-0014,Aditi Rao,Fail,seat gap high on right side,EOL2,TRIM1,0.0,0.5,225.0,Manesar Plant,5623007750,8XPFR3BHAHHXH18L1,BlueRoute Mobility,N,2026-04-06,2026-04-07
+DRI-202604-0015,Ananya Iyer,Fail,front caliper bolt loose,FQA1,BRAKE2,0.0,0.5,225.0,Chennai Plant,1179276130,52XTC42U08F1A0775,Eastway Motors,Y,2026-04-23,2026-04-25
+DRI-202604-0016,Rohit Sharma,Fail,exposed wire near battery,FQA1,ELEC2,420.0,1.0,450.0,Chennai Plant,8295971445,765HCAWVJY6DXYRRF,Jupiter Motors,Y,2026-04-16,2026-04-18
+DRI-202604-0017,Naveen Das,Fail,"seat base clip cracked, replace",PDI2,TRIM2,380.0,0.75,337.5,Chennai Plant,7981343502,DTR3LZEY4TT6SVP13,GrandTrail,N,2026-04-14,2026-04-15
+DRI-202604-0018,Siddharth Rao,Fail,oil wetness below clutch cover,PDI2,ENG1,520.0,1.0,450.0,Pune Plant,1002756157,Z0SHH5X7N0Y36RASM,Delta Wheels,Y,2026-04-06,2026-04-07
+DRI-202604-0019,Siddharth Rao,Fail,engine oil leak at gasket,FQA1,ENG1,650.0,1.25,562.5,Hosur Plant,1044650596,G2XJVHHZMZSTW0N5T,Apex Moto,Y,2026-04-07,2026-04-09
+DRI-202604-0020,Gauri Desai,Fail,rain test shows water near meter,EOL2,SEAL2,240.0,0.75,337.5,Manesar Plant,4384176787,SWY3YG6RHHRNF4JC1,Crestline Riders,N,2026-04-17,2026-04-20
+DRI-202604-0021,Harish Kumar,Fail,rain test shows water near meter,PDI2,SEAL2,240.0,0.75,337.5,Hosur Plant,1403340801,HP878HZGGF8RXZ56R,KiteRoad,N,2026-04-20,2026-04-22
+DRI-202604-0022,Sneha Nair,Pass,Final check clear,FQA1,,0.0,0.0,0.0,Pune Plant,6284312306,7DYCCECAHT2AJ8Y3B,BlueRoute Mobility,N,2026-04-26,
+DRI-202604-0023,Aarav Nair,Pass,Final check clear,ROAD1,,0.0,0.0,0.0,Pune Plant,5238037402,AW927SMRN6938YNBM,Crestline Riders,N,2026-04-04,
+DRI-202604-0024,Chirag Patel,Pass,Final check clear,PDI2,,0.0,0.0,0.0,Chennai Plant,2950212154,572WYN01NYV53HDCC,Jupiter Motors,N,2026-04-30,
+DRI-202604-0025,Chirag Patel,Fail,engine oil leak at gasket,ROAD1,ENG1,650.0,1.25,562.5,Hosur Plant,7032536684,W2FSW7DKNNCRVKEZK,Eastway Motors,Y,2026-04-17,2026-04-19
+DRI-202604-0026,Aarav Nair,Fail,water in headlamp housing,ROAD1,SEAL1,950.0,1.25,562.5,Hosur Plant,3029665156,009XFVBFM55FE2BL1,Orbit Wheels,N,2026-04-10,2026-04-14
+DRI-202604-0027,Aarav Nair,Fail,horn harness pinched,PDI2,ELEC1,340.0,0.75,337.5,Hosur Plant,3475678519,B2M3P55HYWA2NLBUE,Eastway Motors,N,2026-04-08,2026-04-13
+DRI-202604-0028,Nikhil Jain,Pass,Final check clear,VIS3,,0.0,0.0,0.0,Hosur Plant,3502618368,NSC3YNCHKW9DU95F8,GrandTrail,N,2026-04-21,
+DRI-202604-0029,Neha Kapoor,Fail,oil drip near drain bolt,PDI2,ENG2,85.0,0.5,225.0,Chennai Plant,1128754686,UKBCBDRDYVJJCTDYF,BlueRoute Mobility,Y,2026-04-13,2026-04-18
+DRI-202604-0030,Harish Kumar,Fail,oil drip near drain bolt,FQA1,ENG2,85.0,0.5,225.0,Hosur Plant,7903937176,XF1PDYMSY6FFPMF9R,Crestline Riders,Y,2026-04-11,2026-04-14
+DRI-202604-0031,Deepa Krishnan,Fail,oil seep at engine cover,ROAD1,ENG1,420.0,0.75,337.5,Hosur Plant,2730059192,YZJCKV2DLPV84G47S,Eastway Motors,Y,2026-04-02,2026-04-04
+DRI-202604-0032,Diya Thomas,Fail,rear grab rail bolt loose,PDI2,FIT2,0.0,0.25,112.5,Manesar Plant,9131100497,KTFG1ZWFW1E7561K4,Apex Moto,N,2026-04-23,2026-04-24
+DRI-202604-0033,Aditi Rao,Fail,rear brake drag on spin test,EOL2,BRAKE2,480.0,1.25,562.5,Chennai Plant,3439750224,BCRXDHJMMB5JEZUZ0,NorthArc,Y,2026-04-15,2026-04-19
+DRI-202604-0034,Ananya Iyer,Fail,front caliper bolt loose,PDI2,BRAKE2,0.0,0.5,225.0,Pune Plant,5641648217,L051AS25P3NSX5C6L,Apex Moto,Y,2026-04-14,2026-04-18
+DRI-202604-0035,Diya Thomas,Fail,oil wetness below clutch cover,PDI2,ENG1,520.0,1.0,450.0,Chennai Plant,6200261098,4HVTDYW2UTCW2L413,Jupiter Motors,Y,2026-04-30,2026-05-03
+DRI-202604-0036,Suresh Kumar,Fail,brake fluid low at final check,PDI2,BRAKE1,120.0,0.5,225.0,Manesar Plant,5636618622,XRSRXDYZAUWDA0W46,Apex Moto,Y,2026-04-17,2026-04-18
+DRI-202604-0037,Manoj Pillai,Fail,"grease mark on tank, clean",ROAD1,PAINT2,0.0,0.25,112.5,Pune Plant,6717441860,C5T9W4K11JLW6WEVA,Orbit Wheels,N,2026-04-02,2026-04-05
+DRI-202604-0038,Aditi Rao,Fail,"tank dent, polish only",PDI2,PAINT2,0.0,0.75,337.5,Chennai Plant,1269576948,PEF9RJWTN8LPZ867M,Indigo Rides,N,2026-04-27,2026-05-02
+DRI-202604-0039,Suresh Kumar,Fail,chain tension uneven,FQA1,DRIV2,0.0,0.5,225.0,Chennai Plant,8446926412,KPN8VWJT75ELUEDBE,MetroMoto,Y,2026-04-27,2026-04-28
+DRI-202604-0040,Deepa Krishnan,Fail,indicator connector half seated,PDI2,ELEC2,0.0,0.5,225.0,Chennai Plant,7516525681,LKCNNN4VAAVXHCSJ5,Apex Moto,N,2026-04-20,2026-04-21
+DRI-202604-0041,Tanvi Shah,Fail,chain tension uneven,FQA1,DRIV2,0.0,0.5,225.0,Manesar Plant,1165363881,JP0RJ3BLR81L62ELM,Crestline Riders,Y,2026-04-01,2026-04-03
+DRI-202604-0042,Ishaan Verma,Fail,"fairing cracked, replace panel",PDI2,FIT3,2450.0,1.5,675.0,Hosur Plant,1089450635,PXP6CMLY0WP6271UR,BlueRoute Mobility,N,2026-04-28,2026-05-02
+DRI-202604-0043,Karan Singh,Fail,"grease mark on tank, clean",FQA1,PAINT2,0.0,0.25,112.5,Manesar Plant,6070610390,8XPFR3BHAHHXH18L1,BlueRoute Mobility,N,2026-04-06,2026-04-07
+DRI-202604-0044,Karan Singh,Pass,Final check clear,ROAD1,,0.0,0.0,0.0,Pune Plant,2411689188,M0XNBNPJS7M0AYEW8,BlueRoute Mobility,N,2026-04-08,
+DRI-202604-0045,Nikhil Jain,Fail,oil seep at engine cover,FQA1,ENG1,420.0,0.75,337.5,Chennai Plant,5317456982,EPXLCFU8424Z3LS1J,Indigo Rides,Y,2026-04-27,2026-04-29
+DRI-202604-0046,Meera Joshi,Pass,Final check clear,FQA1,,0.0,0.0,0.0,Hosur Plant,8356592812,D4Y0BT3LXX7PRHDLA,Helix Mobility,N,2026-04-01,
+DRI-202604-0047,Ananya Iyer,Fail,chain tension uneven,FQA1,DRIV2,0.0,0.5,225.0,Manesar Plant,6480998218,4AAMVERX7M9GKHJF4,BlueRoute Mobility,Y,2026-04-07,2026-04-11
+DRI-202604-0048,Nikhil Jain,Fail,rear wheel misaligned,PDI2,DRIV1,0.0,0.75,337.5,Chennai Plant,1591719508,GZCSFFT38THV9MJZF,Lumina Mobility,Y,2026-04-17,2026-04-19
+DRI-202604-0049,Aditi Rao,Pass,Final check clear,VIS3,,0.0,0.0,0.0,Hosur Plant,6904358583,ZSMPGBJ0EZSSCY0RS,Crestline Riders,N,2026-04-06,
+DRI-202604-0050,Ananya Iyer,Fail,rear brake drag on spin test,FQA1,BRAKE2,480.0,1.25,562.5,Pune Plant,8876335861,EW7BEYS7B0EFBL3SF,GrandTrail,Y,2026-04-27,2026-05-02
+DRI-202604-0051,Akash Menon,Fail,horn harness pinched,FQA1,ELEC1,340.0,0.75,337.5,Manesar Plant,8206824242,Y062PGKBM01E9KDVU,Jupiter Motors,N,2026-04-06,2026-04-07
+DRI-202604-0052,Deepa Krishnan,Pass,Final check clear,FQA1,,0.0,0.0,0.0,Manesar Plant,4101737697,NZ3Y25YKYNDCTZTAV,Falcon Fleet,N,2026-04-09,
+DRI-202604-0053,Sneha Nair,Fail,oil wetness below clutch cover,VIS3,ENG1,520.0,1.0,450.0,Hosur Plant,8405611782,FCU0G4EAL98L14Y1F,BlueRoute Mobility,Y,2026-04-05,2026-04-06
+DRI-202604-0054,Aarav Nair,Pass,Final check clear,PDI2,,0.0,0.0,0.0,Manesar Plant,7108984060,B7LYWRS6G3GYM5D25,Delta Wheels,N,2026-04-14,
+DRI-202604-0055,Usha Menon,Fail,rear brake drag on spin test,FQA1,BRAKE2,480.0,1.25,562.5,Pune Plant,6151912812,W2R2UHYC7VTWSV4F8,Apex Moto,Y,2026-04-04,2026-04-06
+DRI-202604-0056,Harish Kumar,Fail,"fairing cracked, replace panel",ROAD1,FIT3,2450.0,1.5,675.0,Chennai Plant,5893271373,4HVTDYW2UTCW2L413,Jupiter Motors,N,2026-04-30,2026-05-01
+DRI-202604-0057,Akash Menon,Fail,brake fluid low at final check,FQA1,BRAKE1,120.0,0.5,225.0,Chennai Plant,5216599994,4HVTDYW2UTCW2L413,Jupiter Motors,Y,2026-04-30,2026-05-04
+DRI-202604-0058,Diya Thomas,Fail,front brake hose kinked,VIS3,BRAKE1,720.0,1.0,450.0,Chennai Plant,7442652840,1S7UX2RVXUNEEZKRL,Lumina Mobility,Y,2026-04-03,2026-04-08
+DRI-202604-0059,Aditi Rao,Fail,chain off center at rear sprocket,FQA1,DRIV1,0.0,0.75,337.5,Chennai Plant,3131057424,FL1DEZZLG9R2DASRG,Apex Moto,Y,2026-04-22,2026-04-25
+DRI-202604-0060,Rahul Menon,Fail,oil wetness below clutch cover,PDI2,ENG1,520.0,1.0,450.0,Pune Plant,9563923030,C5T9W4K11JLW6WEVA,Orbit Wheels,Y,2026-04-02,2026-04-07
+DRI-202604-0061,Aditi Rao,Fail,"grease mark on tank, clean",FQA1,PAINT2,0.0,0.25,112.5,Hosur Plant,5250149467,FCU0G4EAL98L14Y1F,BlueRoute Mobility,N,2026-04-05,2026-04-07
+DRI-202604-0062,Neha Kapoor,Fail,oil drip near drain bolt,FQA1,ENG2,85.0,0.5,225.0,Hosur Plant,1420102358,WXXVUYLMU3RNJLA34,Crestline Riders,Y,2026-04-16,2026-04-20
+DRI-202604-0063,Zoya Khan,Fail,"tank dent, polish only",FQA1,PAINT2,0.0,0.75,337.5,Pune Plant,1261412194,BNGJX6RDBUFATCHRW,Delta Wheels,N,2026-04-24,2026-04-29
+DRI-202604-0064,Aditi Rao,Fail,"grease mark on tank, clean",FQA1,PAINT2,0.0,0.25,112.5,Pune Plant,5818143357,CS2YFBNGZ6XMCX1EG,Indigo Rides,N,2026-04-19,2026-04-23
+DRI-202604-0065,Manoj Pillai,Pass,Final check clear,PDI2,,0.0,0.0,0.0,Hosur Plant,1332646182,NSL8YLFZF4WAG7NGK,Eastway Motors,N,2026-04-15,
+DRI-202604-0066,Ishaan Verma,Fail,exhaust mount bolt not torqued,ROAD1,CHS1,0.0,0.5,225.0,Manesar Plant,6943960966,359P6050LM46XEPY6,GrandTrail,Y,2026-04-20,2026-04-23
+DRI-202604-0067,Aarav Nair,Fail,footrest bracket screw loose,FQA1,FIT2,0.0,0.25,112.5,Manesar Plant,1052996109,AK7MCXL0HTMK60GG4,Delta Wheels,N,2026-04-28,2026-05-01
+DRI-202604-0068,Deepa Krishnan,Pass,Final check clear,VIS3,,0.0,0.0,0.0,Hosur Plant,9555450885,MWSXRSP3LNFHYMC4T,Helix Mobility,N,2026-04-26,
+DRI-202604-0069,Arjun Pillai,Fail,water in headlamp housing,FQA1,SEAL1,950.0,1.25,562.5,Hosur Plant,6223262065,1NLX1WU52UR4B9UP1,Falcon Fleet,N,2026-04-17,2026-04-19
+DRI-202604-0070,Meera Joshi,Pass,Final check clear,EOL2,,0.0,0.0,0.0,Chennai Plant,1433771828,PUSE84TSWEY30WL9E,Orbit Wheels,N,2026-04-23,
+DRI-202604-0071,Kavya Menon,Fail,front brake hose kinked,FQA1,BRAKE1,720.0,1.0,450.0,Hosur Plant,8532051002,ZEPRFW0GSJZ630EDR,Crestline Riders,Y,2026-04-17,2026-04-20
+DRI-202604-0072,Aarav Nair,Fail,rain test shows water near meter,EOL2,SEAL2,240.0,0.75,337.5,Pune Plant,1861999412,CGS59C81CP7PV01EG,Delta Wheels,N,2026-04-18,2026-04-22
+DRI-202604-0073,Pooja Shetty,Fail,engine oil leak at gasket,FQA1,ENG1,650.0,1.25,562.5,Hosur Plant,7416398798,B2M3P55HYWA2NLBUE,Eastway Motors,Y,2026-04-08,2026-04-11
+DRI-202604-0074,Chirag Patel,Fail,clear coat scratch on mudguard,FQA1,PAINT1,0.0,0.75,337.5,Chennai Plant,9175690539,PHNPWCVB7SMXZ303A,Eastway Motors,N,2026-04-13,2026-04-17
+DRI-202604-0075,Vikram Rao,Fail,exposed wire near battery,PDI2,ELEC2,420.0,1.0,450.0,Pune Plant,9449396649,VZ4ADDRHKGAD7Y48Y,Indigo Rides,Y,2026-04-04,2026-04-06
+DRI-202604-0076,Rhea Dsouza,Fail,tail lamp cuts during test,PDI2,ELEC1,560.0,1.0,450.0,Hosur Plant,4910446704,KX4GGBMEBWWLCD9FK,Helix Mobility,Y,2026-04-23,2026-04-27
+DRI-202604-0077,Varun Nair,Fail,paint run near side cover,ROAD1,PAINT1,0.0,0.75,337.5,Pune Plant,8031053243,MJMBVKDSP2HKF386W,Falcon Fleet,N,2026-04-08,2026-04-10
+DRI-202604-0078,Aarav Nair,Fail,seat gap high on right side,FQA1,TRIM1,0.0,0.5,225.0,Hosur Plant,4371308963,AZDRAGUGUJS1E0AWY,Apex Moto,N,2026-04-06,2026-04-07
+DRI-202604-0079,Manoj Pillai,Fail,rear cowl dented on edge,VIS3,PAINT2,0.0,0.75,337.5,Chennai Plant,9667651430,DFSZ58WTX9MZZPKEA,Apex Moto,N,2026-04-01,2026-04-02
+DRI-202604-0080,Dev Malhotra,Fail,"grease mark on tank, clean",FQA1,PAINT2,0.0,0.25,112.5,Pune Plant,1132734573,10XVGZXM7T7NBNSBN,Helix Mobility,N,2026-04-23,2026-04-25
+DRI-202604-0081,Akash Menon,Fail,oil wetness below clutch cover,FQA1,ENG1,520.0,1.0,450.0,Hosur Plant,5650566007,NXLC84GZ2FKPLDYB7,BlueRoute Mobility,Y,2026-04-02,2026-04-06
+DRI-202604-0082,Aditi Rao,Fail,indicator connector half seated,VIS3,ELEC2,0.0,0.5,225.0,Pune Plant,4677632443,10XVGZXM7T7NBNSBN,Helix Mobility,N,2026-04-23,2026-04-25
+DRI-202604-0083,Jaya Nair,Fail,moisture under seat after wash,EOL2,SEAL1,180.0,0.5,225.0,Hosur Plant,4972236629,BGZJS8CYY7MDK6N9T,Indigo Rides,N,2026-04-29,2026-05-02
+DRI-202604-0084,Aditi Rao,Fail,"fairing cracked, replace panel",EOL2,FIT3,2450.0,1.5,675.0,Pune Plant,7853666330,10XVGZXM7T7NBNSBN,Helix Mobility,N,2026-04-23,2026-04-26
+DRI-202604-0085,Farhan Ali,Fail,rain test shows water near meter,ROAD1,SEAL2,240.0,0.75,337.5,Hosur Plant,6098254040,8B2CSG434E2J2R1BS,KiteRoad,N,2026-04-17,2026-04-18
+DRI-202604-0086,Akash Menon,Pass,Final check clear,ROAD1,,0.0,0.0,0.0,Manesar Plant,8876362545,VXHK8B3F047H17251,Crestline Riders,N,2026-04-27,
+DRI-202604-0087,Arjun Pillai,Fail,footrest bracket screw loose,FQA1,FIT2,0.0,0.25,112.5,Manesar Plant,4824344960,8XPFR3BHAHHXH18L1,BlueRoute Mobility,N,2026-04-06,2026-04-07
+DRI-202604-0088,Akash Menon,Pass,Final check clear,FQA1,,0.0,0.0,0.0,Hosur Plant,2215838266,43N45PFXRNY0D0B6F,MetroMoto,N,2026-04-18,
+DRI-202604-0089,Aditi Rao,Fail,"seat base clip cracked, replace",PDI2,TRIM2,380.0,0.75,337.5,Hosur Plant,2024862905,FKD3AB2SWNCFDX79X,Apex Moto,N,2026-04-21,2026-04-23
+DRI-202604-0090,Pooja Shetty,Fail,paint run near side cover,PDI2,PAINT1,0.0,0.75,337.5,Chennai Plant,3871865327,NS1Z4HP9R5637NAZZ,Delta Wheels,N,2026-04-17,2026-04-18
+DRI-202604-0091,Rohit Sharma,Fail,oil drip near drain bolt,FQA1,ENG2,85.0,0.5,225.0,Hosur Plant,2306916015,AZDRAGUGUJS1E0AWY,Apex Moto,Y,2026-04-06,2026-04-07
+DRI-202604-0092,Pooja Shetty,Fail,water in headlamp housing,FQA1,SEAL1,950.0,1.25,562.5,Hosur Plant,3784783625,U9KKH5A4ZKVV7FBME,Crestline Riders,N,2026-04-19,2026-04-20
+DRI-202604-0093,Tanvi Shah,Pass,Final check clear,EOL2,,0.0,0.0,0.0,Hosur Plant,3788344656,A2EHRJCETGNYH09R5,Apex Moto,N,2026-04-11,
+DRI-202604-0094,Pooja Shetty,Fail,clear coat scratch on mudguard,EOL2,PAINT1,0.0,0.75,337.5,Pune Plant,9065112088,HDUDM2UH2YKG3Z8SF,Helix Mobility,N,2026-04-02,2026-04-04
+DRI-202604-0095,Ananya Iyer,Fail,exposed wire near battery,ROAD1,ELEC2,420.0,1.0,450.0,Manesar Plant,3538147976,M5PVV62S0W2TSRR5L,KiteRoad,Y,2026-04-22,2026-04-25
+DRI-202604-0096,Kavya Menon,Fail,footrest bracket screw loose,FQA1,FIT2,0.0,0.25,112.5,Pune Plant,1416026153,NHRAT10J7WBBSNW8C,Jupiter Motors,N,2026-04-17,2026-04-18
+DRI-202604-0097,Santhosh Babu,Pass,Final check clear,EOL2,,0.0,0.0,0.0,Chennai Plant,8713142578,GEUV5TE3KZV5FRDYH,BlueRoute Mobility,N,2026-04-25,
+DRI-202604-0098,Aditi Rao,Fail,"tank dent, polish only",FQA1,PAINT2,0.0,0.75,337.5,Pune Plant,9301891589,R422UA83SV7MZPX8C,Eastway Motors,N,2026-04-11,2026-04-13
+DRI-202604-0099,Nikhil Jain,Fail,clear coat scratch on mudguard,VIS3,PAINT1,0.0,0.75,337.5,Chennai Plant,7663320708,17LP7DFJCP1VLZ2YG,Delta Wheels,N,2026-04-21,2026-04-22
+DRI-202604-0100,Sana Khan,Pass,Final check clear,FQA1,,0.0,0.0,0.0,Chennai Plant,1506651617,80D9A7LNK0Y8ZY7XT,KiteRoad,N,2026-04-11,
+DRI-202604-0101,Rohit Sharma,Fail,brake fluid low at final check,FQA1,BRAKE1,120.0,0.5,225.0,Pune Plant,7467381113,RT4SU46RNZZ96G6CN,BlueRoute Mobility,Y,2026-04-03,2026-04-05
+DRI-202604-0102,Aarav Nair,Fail,tail lamp cuts during test,FQA1,ELEC1,560.0,1.0,450.0,Chennai Plant,1043162941,TBDJCZ127G6GMC488,Crestline Riders,Y,2026-04-06,2026-04-08
+DRI-202604-0103,Dev Malhotra,Fail,rear cowl dented on edge,VIS3,PAINT2,0.0,0.75,337.5,Chennai Plant,6374644126,X4JKFZHHEA3LT9P6G,Crestline Riders,N,2026-04-01,2026-04-04
+DRI-202604-0104,Akash Menon,Fail,mirror stalk loose at mount,FQA1,FIT1,0.0,0.25,112.5,Manesar Plant,5333066661,4KFUCC04095GT368X,Orbit Wheels,N,2026-04-23,2026-04-27
+DRI-202604-0105,Bhavna Shah,Fail,rear brake drag on spin test,VIS3,BRAKE2,480.0,1.25,562.5,Manesar Plant,6230593697,WBVGS6D7FA2J06R3X,Delta Wheels,Y,2026-04-02,2026-04-03
+DRI-202604-0106,Diya Thomas,Fail,"tank dent, polish only",ROAD1,PAINT2,0.0,0.75,337.5,Hosur Plant,9548759191,YSX6UM2P14K0LUGZ3,MetroMoto,N,2026-04-12,2026-04-13
+DRI-202604-0107,Suresh Kumar,Fail,footrest bracket screw loose,FQA1,FIT2,0.0,0.25,112.5,Hosur Plant,7278262300,YZJCKV2DLPV84G47S,Eastway Motors,N,2026-04-02,2026-04-05
+DRI-202604-0108,Bhavna Shah,Fail,"fairing cracked, replace panel",PDI2,FIT3,2450.0,1.5,675.0,Hosur Plant,3925562184,M1643BXU14CHUDHNG,Helix Mobility,N,2026-04-19,2026-04-24
+DRI-202604-0109,Karan Singh,Fail,handlebar clamp bolt loose,EOL2,FIT2,0.0,0.5,225.0,Manesar Plant,7965886270,5YU63RE9NWN439ENG,Apex Moto,Y,2026-04-24,2026-04-28
+DRI-202604-0110,Aditi Rao,Fail,oil seep at engine cover,FQA1,ENG1,420.0,0.75,337.5,Chennai Plant,4147684913,RJCN8D0R7RZD0G52K,Eastway Motors,Y,2026-04-05,2026-04-06
+DRI-202604-0111,Akash Menon,Pass,Final check clear,FQA1,,0.0,0.0,0.0,Pune Plant,5176412695,W1175DV33JG10AFTD,KiteRoad,N,2026-04-14,
+DRI-202604-0112,Akash Menon,Fail,side panel scuffed,FQA1,FIT3,0.0,0.5,225.0,Pune Plant,5754738881,UB98W441PNY0FW4BJ,Lumina Mobility,N,2026-04-02,2026-04-03
+DRI-202604-0113,Bhavna Shah,Fail,paint run near side cover,PDI2,PAINT1,0.0,0.75,337.5,Pune Plant,4883349761,C0G9HDS7W8G1HMJZK,Apex Moto,N,2026-04-12,2026-04-16
+DRI-202604-0114,Ananya Iyer,Fail,chain off center at rear sprocket,FQA1,DRIV1,0.0,0.75,337.5,Pune Plant,1383428853,ZECA0TR9CYPS3WRFT,Falcon Fleet,Y,2026-04-15,2026-04-18
+DRI-202604-0115,Neha Kapoor,Fail,clear coat scratch on mudguard,VIS3,PAINT1,0.0,0.75,337.5,Manesar Plant,8294323078,DNKUDLNKAE2P7LKG1,Apex Moto,N,2026-04-18,2026-04-19
+DRI-202604-0116,Aditi Rao,Fail,rear cowl dented on edge,FQA1,PAINT2,0.0,0.75,337.5,Manesar Plant,1905248698,BL4CE7RKXCZVKND1H,GrandTrail,N,2026-04-22,2026-04-27
+DRI-202604-0117,Deepa Krishnan,Fail,oil drip near drain bolt,EOL2,ENG2,85.0,0.5,225.0,Hosur Plant,7384440186,2FM43XR7HZF1C1JXE,Lumina Mobility,Y,2026-04-10,2026-04-14
+DRI-202604-0118,Harish Kumar,Fail,footrest bracket screw loose,ROAD1,FIT2,0.0,0.25,112.5,Chennai Plant,9128109021,W138MZ89TESETH8A1,Lumina Mobility,N,2026-04-16,2026-04-17
+DRI-202604-0119,Aarav Nair,Fail,handlebar clamp bolt loose,PDI2,FIT2,0.0,0.5,225.0,Manesar Plant,6444022456,ABNLPLN4DG1WT1NDC,Eastway Motors,Y,2026-04-14,2026-04-16
+DRI-202604-0120,Chirag Patel,Fail,paint run near side cover,EOL2,PAINT1,0.0,0.75,337.5,Pune Plant,9475218545,ZECA0TR9CYPS3WRFT,Falcon Fleet,N,2026-04-15,2026-04-20
+DRI-202604-0121,Tanvi Shah,Fail,exposed wire near battery,EOL2,ELEC2,420.0,1.0,450.0,Chennai Plant,2734195515,RJCN8D0R7RZD0G52K,Eastway Motors,Y,2026-04-05,2026-04-10
+DRI-202604-0122,Aditi Rao,Fail,footrest bracket screw loose,VIS3,FIT2,0.0,0.25,112.5,Hosur Plant,1943087932,28GR62KFK7Z6SYCTF,GrandTrail,N,2026-04-29,2026-05-01
+DRI-202604-0123,Ananya Iyer,Fail,right mirror angle won't hold,FQA1,FIT1,320.0,0.5,225.0,Hosur Plant,8621906659,ZEPRFW0GSJZ630EDR,Crestline Riders,N,2026-04-17,2026-04-21
+DRI-202604-0124,Farhan Ali,Fail,paint run near side cover,FQA1,PAINT1,0.0,0.75,337.5,Pune Plant,7298795267,9DKBRWX0PRGFEV4MP,Crestline Riders,N,2026-04-28,2026-05-02
+DRI-202604-0125,Varun Nair,Pass,Final check clear,ROAD1,,0.0,0.0,0.0,Hosur Plant,8219909864,WTZKAECP3U76SW1K6,Delta Wheels,N,2026-04-23,
+DRI-202604-0126,Akash Menon,Fail,rear cowl dented on edge,EOL2,PAINT2,0.0,0.75,337.5,Pune Plant,9817654910,RNAMLRVH61PRF161P,Lumina Mobility,N,2026-04-20,2026-04-25
+DRI-202604-0127,Jaya Nair,Fail,oil seep at engine cover,EOL2,ENG1,420.0,0.75,337.5,Pune Plant,7494878720,KCT5KEK5ADFWER3J0,Eastway Motors,Y,2026-04-26,2026-04-27
+DRI-202604-0128,Pooja Shetty,Fail,oil wetness below clutch cover,PDI2,ENG1,520.0,1.0,450.0,Hosur Plant,5837373178,L6LGKLRDEKAXTGMLE,Indigo Rides,Y,2026-04-10,2026-04-15
+DRI-202604-0129,Neha Kapoor,Pass,Final check clear,FQA1,,0.0,0.0,0.0,Manesar Plant,1313595787,Y59VMZ92NUKZG5NE1,Falcon Fleet,N,2026-04-26,
+DRI-202604-0130,Aditi Rao,Fail,seat gap high on right side,EOL2,TRIM1,0.0,0.5,225.0,Hosur Plant,1558605632,JJKVVHCLST604DYB3,Delta Wheels,N,2026-04-25,2026-04-29
+DRI-202604-0131,Ananya Iyer,Fail,seat latch not closing flush,FQA1,TRIM1,0.0,0.5,225.0,Chennai Plant,8583544368,XDT9ZY07UYCSC3K9Z,Crestline Riders,N,2026-04-08,2026-04-12
+DRI-202604-0132,Chirag Patel,Fail,water in headlamp housing,FQA1,SEAL1,950.0,1.25,562.5,Hosur Plant,5656031325,YGN87F11VESKMBZ9H,Delta Wheels,N,2026-04-01,2026-04-04
+DRI-202604-0133,Gauri Desai,Fail,left mirror threads cross set,PDI2,FIT1,240.0,0.5,225.0,Hosur Plant,6499884316,NXLC84GZ2FKPLDYB7,BlueRoute Mobility,N,2026-04-02,2026-04-07
+DRI-202604-0134,Jaya Nair,Fail,engine oil leak at gasket,ROAD1,ENG1,650.0,1.25,562.5,Pune Plant,3263047835,YWH7KAURZCTGLW86M,BlueRoute Mobility,Y,2026-04-28,2026-05-03
+DRI-202604-0135,Aditi Rao,Fail,handlebar clamp bolt loose,PDI2,FIT2,0.0,0.5,225.0,Manesar Plant,5094363513,A6UJ4LPT14JTE18RV,Apex Moto,Y,2026-04-11,2026-04-16
+DRI-202604-0136,Aditi Rao,Pass,Final check clear,PDI2,,0.0,0.0,0.0,Hosur Plant,4428266738,FJKRXJ2C9PFRT1243,Apex Moto,N,2026-04-13,
+DRI-202604-0137,Akash Menon,Fail,brake fluid low at final check,PDI2,BRAKE1,120.0,0.5,225.0,Chennai Plant,6807251282,J3YF58TA5CW56PMYC,NorthArc,Y,2026-04-24,2026-04-26
+DRI-202604-0138,Bhavna Shah,Fail,rear wheel misaligned,PDI2,DRIV1,0.0,0.75,337.5,Manesar Plant,7663237365,UYEH4VBM9YGCGSZSZ,Lumina Mobility,Y,2026-04-19,2026-04-21
+DRI-202604-0139,Suresh Kumar,Fail,front brake hose kinked,ROAD1,BRAKE1,720.0,1.0,450.0,Hosur Plant,9351054360,PH273ZK13P5GKYXJX,BlueRoute Mobility,Y,2026-04-01,2026-04-03
+DRI-202604-0140,Sneha Nair,Fail,seat latch not closing flush,PDI2,TRIM1,0.0,0.5,225.0,Pune Plant,5993358302,KMVTP0DVCKSWHJFSC,BlueRoute Mobility,N,2026-04-23,2026-04-28
+DRI-202604-0141,Aditi Rao,Pass,Final check clear,FQA1,,0.0,0.0,0.0,Hosur Plant,7744670146,BUF5PFDUSC85EGR0S,GrandTrail,N,2026-04-10,
+DRI-202604-0142,Ishaan Verma,Fail,"grease mark on tank, clean",PDI2,PAINT2,0.0,0.25,112.5,Hosur Plant,1473301871,NH1REUFBM75S57VE8,Falcon Fleet,N,2026-04-19,2026-04-21
+DRI-202604-0143,Aarav Nair,Fail,front caliper bolt loose,FQA1,BRAKE2,0.0,0.5,225.0,Chennai Plant,5607991799,HBJ0R97BM0TT45ED5,BlueRoute Mobility,Y,2026-04-06,2026-04-09
+DRI-202604-0144,Diya Thomas,Fail,oil seep at engine cover,EOL2,ENG1,420.0,0.75,337.5,Pune Plant,6975112197,3DWXCGM41PDZVL8HB,BlueRoute Mobility,Y,2026-04-03,2026-04-06
+DRI-202604-0145,Jaya Nair,Fail,rear wheel misaligned,FQA1,DRIV1,0.0,0.75,337.5,Manesar Plant,2178508211,939V6XUWMK20Z0UJL,Falcon Fleet,Y,2026-04-27,2026-04-28
+DRI-202604-0146,Dev Malhotra,Fail,rear cowl dented on edge,PDI2,PAINT2,0.0,0.75,337.5,Manesar Plant,5526884931,ABNLPLN4DG1WT1NDC,Eastway Motors,N,2026-04-14,2026-04-19
+DRI-202604-0147,Aditi Rao,Fail,rear wheel misaligned,PDI2,DRIV1,0.0,0.75,337.5,Chennai Plant,6799312597,53K31VWDJH2PAGNPY,Orbit Wheels,Y,2026-04-05,2026-04-06
+DRI-202604-0148,Akash Menon,Pass,Final check clear,FQA1,,0.0,0.0,0.0,Hosur Plant,6842387941,K700HT9V9CD2LRJTS,Apex Moto,N,2026-04-23,
+DRI-202604-0149,Naveen Das,Fail,chain off center at rear sprocket,ROAD1,DRIV1,0.0,0.75,337.5,Hosur Plant,5462987469,YZJCKV2DLPV84G47S,Eastway Motors,Y,2026-04-02,2026-04-07
+DRI-202604-0150,Santhosh Babu,Fail,brake fluid low at final check,EOL2,BRAKE1,120.0,0.5,225.0,Chennai Plant,2113367267,ZGASEH45UC2EPD61R,Eastway Motors,Y,2026-04-01,2026-04-06
+DRI-202604-0151,Gauri Desai,Pass,Final check clear,PDI2,,0.0,0.0,0.0,Hosur Plant,3539302505,YYDZRWBNGJ6GAAA4Z,Apex Moto,N,2026-04-29,
+DRI-202604-0152,Bhavna Shah,Fail,tail lamp cuts during test,EOL2,ELEC1,560.0,1.0,450.0,Hosur Plant,1715736788,UZT1K23W3VG6RJ0Y4,BlueRoute Mobility,Y,2026-04-03,2026-04-06
+DRI-202604-0153,Chirag Patel,Fail,clear coat scratch on mudguard,FQA1,PAINT1,0.0,0.75,337.5,Chennai Plant,2228744350,BR7NLNSBV5L0TE0TD,Helix Mobility,N,2026-04-22,2026-04-24
+DRI-202604-0154,Siddharth Rao,Fail,paint nib on tank top,EOL2,PAINT1,0.0,0.5,225.0,Chennai Plant,4393042281,BP0L01R3M73GC9JZR,Apex Moto,N,2026-04-13,2026-04-15
+DRI-202604-0155,Diya Thomas,Fail,oil seep at engine cover,FQA1,ENG1,420.0,0.75,337.5,Manesar Plant,2629196971,RJ9MSWAZYAS6ZP602,Eastway Motors,Y,2026-04-26,2026-04-27
+DRI-202604-0156,Pranav Kulkarni,Fail,exposed wire near battery,EOL2,ELEC2,420.0,1.0,450.0,Chennai Plant,4830287810,Z9NZFXDC123GYTJM5,Falcon Fleet,Y,2026-04-25,2026-04-29
+DRI-202604-0157,Arjun Pillai,Fail,front caliper bolt loose,FQA1,BRAKE2,0.0,0.5,225.0,Hosur Plant,8741735604,YZJCKV2DLPV84G47S,Eastway Motors,Y,2026-04-02,2026-04-03
+DRI-202604-0158,Karan Singh,Fail,seat latch not closing flush,ROAD1,TRIM1,0.0,0.5,225.0,Chennai Plant,1244313440,YCEPWD79C9MW9E40K,Indigo Rides,N,2026-04-19,2026-04-20
+DRI-202604-0159,Pooja Shetty,Pass,Final check clear,PDI2,,0.0,0.0,0.0,Hosur Plant,8447263911,GXCT8B97EFV3GTRSF,BlueRoute Mobility,N,2026-04-14,
+DRI-202604-0160,Gauri Desai,Fail,right mirror angle won't hold,PDI2,FIT1,320.0,0.5,225.0,Chennai Plant,4712961266,MHH6MW4YEK084Z133,Lumina Mobility,N,2026-04-20,2026-04-24
+DRI-202604-0161,Dev Malhotra,Fail,exhaust mount bolt not torqued,ROAD1,CHS1,0.0,0.5,225.0,Hosur Plant,9631741253,8HKD227RASTG71U2E,MetroMoto,Y,2026-04-27,2026-04-30
+DRI-202604-0162,Ananya Iyer,Fail,seat gap high on right side,ROAD1,TRIM1,0.0,0.5,225.0,Manesar Plant,3817404707,UZ8R20UCMP2RNB7EV,Orbit Wheels,N,2026-04-23,2026-04-25
+DRI-202604-0163,Deepa Krishnan,Pass,Final check clear,EOL2,,0.0,0.0,0.0,Pune Plant,3860030122,LX581ZHS13M78SY0D,Delta Wheels,N,2026-04-20,
+DRI-202604-0164,Bhavna Shah,Fail,"fairing cracked, replace panel",VIS3,FIT3,2450.0,1.5,675.0,Manesar Plant,5386405648,A47AZN2D7LH3Y8996,MetroMoto,N,2026-04-03,2026-04-07
+DRI-202604-0165,Arjun Pillai,Fail,water in headlamp housing,FQA1,SEAL1,950.0,1.25,562.5,Manesar Plant,3707281860,586GCSYCT1YTTSLNZ,Indigo Rides,N,2026-04-16,2026-04-20
+DRI-202604-0166,Rhea Dsouza,Fail,moisture under seat after wash,FQA1,SEAL1,180.0,0.5,225.0,Hosur Plant,5743940506,V94PX4LHVNV1MR8AB,Crestline Riders,N,2026-04-01,2026-04-05
+DRI-202604-0167,Suresh Kumar,Fail,moisture under seat after wash,PDI2,SEAL1,180.0,0.5,225.0,Chennai Plant,6156156606,MC4TKYLPJUZV6XUGT,Helix Mobility,N,2026-04-27,2026-04-30
+DRI-202604-0168,Karan Singh,Fail,rain test shows water near meter,EOL2,SEAL2,240.0,0.75,337.5,Pune Plant,9441556624,YWH7KAURZCTGLW86M,BlueRoute Mobility,N,2026-04-28,2026-05-02
+DRI-202604-0169,Ananya Iyer,Fail,mirror stalk loose at mount,FQA1,FIT1,0.0,0.25,112.5,Manesar Plant,8788600364,UYEH4VBM9YGCGSZSZ,Lumina Mobility,N,2026-04-19,2026-04-24
+DRI-202604-0170,Aditi Rao,Fail,water seep by side panel seal,FQA1,SEAL2,310.0,0.75,337.5,Hosur Plant,5728896400,L5UGTS7AJUMNFMMXH,Orbit Wheels,N,2026-04-17,2026-04-19
+DRI-202604-0171,Manoj Pillai,Fail,clear coat scratch on mudguard,ROAD1,PAINT1,0.0,0.75,337.5,Hosur Plant,6736690534,KCJN9988HMNE1UZ5Z,Delta Wheels,N,2026-04-19,2026-04-22
+DRI-202604-0172,Sneha Nair,Pass,Final check clear,VIS3,,0.0,0.0,0.0,Pune Plant,9200233904,A5P47AEU81JRZ5TYA,Helix Mobility,N,2026-04-27,
+DRI-202604-0173,Rahul Menon,Fail,water seep by side panel seal,PDI2,SEAL2,310.0,0.75,337.5,Chennai Plant,3830262384,LY6B13B7ZJNY06ZUH,Delta Wheels,N,2026-04-01,2026-04-05
+DRI-202604-0174,Manoj Pillai,Fail,seat latch not closing flush,FQA1,TRIM1,0.0,0.5,225.0,Pune Plant,8309328395,992SC6CS18CX3LBM2,Eastway Motors,N,2026-04-17,2026-04-20
+DRI-202604-0175,Dev Malhotra,Fail,oil seep at engine cover,VIS3,ENG1,420.0,0.75,337.5,Manesar Plant,2023176784,7T94EE0E05DHS18N8,GrandTrail,Y,2026-04-14,2026-04-16
+DRI-202604-0176,Rahul Menon,Fail,brake fluid low at final check,PDI2,BRAKE1,120.0,0.5,225.0,Hosur Plant,2718866989,A1Y80CFDC5VAP2CJF,Helix Mobility,Y,2026-04-29,2026-05-02
+DRI-202604-0177,Shreya Iyer,Fail,rain test shows water near meter,ROAD1,SEAL2,240.0,0.75,337.5,Hosur Plant,7765563516,UXTFX09AAXD439PMV,Helix Mobility,N,2026-04-01,2026-04-02
+DRI-202604-0178,Meera Joshi,Fail,"fairing cracked, replace panel",VIS3,FIT3,2450.0,1.5,675.0,Pune Plant,8698043887,FC2NLB8JRT7XFTE2H,Helix Mobility,N,2026-04-30,2026-05-05
+DRI-202604-0179,Shreya Iyer,Fail,"fairing cracked, replace panel",PDI2,FIT3,2450.0,1.5,675.0,Pune Plant,3483210174,6VLM9KFZWL2JXWVYK,Jupiter Motors,N,2026-04-01,2026-04-03
+DRI-202604-0180,Aditi Rao,Fail,oil seep at engine cover,FQA1,ENG1,420.0,0.75,337.5,Hosur Plant,3124315530,F9A9KERACAHP2TNZB,Apex Moto,Y,2026-04-25,2026-04-26
+DRI-202604-0181,Ananya Iyer,Fail,rear cowl dented on edge,FQA1,PAINT2,0.0,0.75,337.5,Pune Plant,9069049958,DK0T5UXK8UEMRYKC5,BlueRoute Mobility,N,2026-04-17,2026-04-20
+DRI-202604-0182,Aditi Rao,Fail,exhaust mount bolt not torqued,FQA1,CHS1,0.0,0.5,225.0,Chennai Plant,5446846255,VUSVFBJWNZ2KCWEN3,Falcon Fleet,Y,2026-04-25,2026-04-26
+DRI-202604-0183,Bhavna Shah,Fail,horn harness pinched,FQA1,ELEC1,340.0,0.75,337.5,Chennai Plant,1990305666,TPASALVLDTZGT3ZFK,Orbit Wheels,N,2026-04-07,2026-04-08
+DRI-202604-0184,Aarav Nair,Fail,rear wheel misaligned,ROAD1,DRIV1,0.0,0.75,337.5,Manesar Plant,7785578957,2A4SKFJ0PXJ1U2ER7,MetroMoto,Y,2026-04-28,2026-05-03
+DRI-202604-0185,Ananya Iyer,Fail,oil wetness below clutch cover,PDI2,ENG1,520.0,1.0,450.0,Manesar Plant,6062840421,A374JS844UHCWRDRE,Orbit Wheels,Y,2026-04-30,2026-05-03
+DRI-202604-0186,Manoj Pillai,Fail,rear wheel misaligned,EOL2,DRIV1,0.0,0.75,337.5,Pune Plant,1793743692,YPMYLWZ4RLE3FJS92,Apex Moto,Y,2026-04-12,2026-04-14
+DRI-202604-0187,Akash Menon,Fail,water seep by side panel seal,VIS3,SEAL2,310.0,0.75,337.5,Hosur Plant,3504648241,F97LUGEU35L0UE99E,NorthArc,N,2026-04-30,2026-05-03
+DRI-202604-0188,Chirag Patel,Pass,Final check clear,FQA1,,0.0,0.0,0.0,Pune Plant,7765620342,0T789NTYWPB7NVGRJ,NorthArc,N,2026-04-24,
+DRI-202604-0189,Aditi Rao,Fail,water seep by side panel seal,EOL2,SEAL2,310.0,0.75,337.5,Hosur Plant,6984296009,KX4GGBMEBWWLCD9FK,Helix Mobility,N,2026-04-23,2026-04-27
+DRI-202604-0190,Jaya Nair,Fail,"tank dent, polish only",FQA1,PAINT2,0.0,0.75,337.5,Hosur Plant,2433400257,GTDV4YU0JNWC7GT6C,KiteRoad,N,2026-04-02,2026-04-06
+DRI-202604-0191,Gauri Desai,Pass,Final check clear,ROAD1,,0.0,0.0,0.0,Hosur Plant,8943143990,K42PPWYST2EPH1SU2,Jupiter Motors,N,2026-04-24,
+DRI-202604-0192,Akash Menon,Fail,moisture under seat after wash,EOL2,SEAL1,180.0,0.5,225.0,Pune Plant,9959316663,ZMBMX8BKYCGX2WFLL,Lumina Mobility,N,2026-04-26,2026-05-01
+DRI-202604-0193,Aditi Rao,Fail,oil drip near drain bolt,EOL2,ENG2,85.0,0.5,225.0,Pune Plant,7519795910,DK9C1WV5XSZDTV4FB,Crestline Riders,Y,2026-04-29,2026-05-03
+DRI-202604-0194,Deepa Krishnan,Pass,Final check clear,FQA1,,0.0,0.0,0.0,Hosur Plant,1468853596,ZP2ULA27F8LXWX59G,Delta Wheels,N,2026-04-18,
+DRI-202604-0195,Aarav Nair,Fail,oil drip near drain bolt,FQA1,ENG2,85.0,0.5,225.0,Pune Plant,5330765328,FC2NLB8JRT7XFTE2H,Helix Mobility,Y,2026-04-30,2026-05-03
+DRI-202604-0196,Diya Thomas,Fail,moisture under seat after wash,PDI2,SEAL1,180.0,0.5,225.0,Pune Plant,5824092354,K8XFUGF063FD9VRNG,Indigo Rides,N,2026-04-22,2026-04-26
+DRI-202604-0197,Chirag Patel,Pass,Final check clear,VIS3,,0.0,0.0,0.0,Hosur Plant,9659161630,KHDMVMZJ124GWE50U,BlueRoute Mobility,N,2026-04-25,
+DRI-202604-0198,Rohit Sharma,Fail,"fairing cracked, replace panel",PDI2,FIT3,2450.0,1.5,675.0,Chennai Plant,1096819216,7N9JC4HG67X62PB54,NorthArc,N,2026-04-16,2026-04-21
+DRI-202604-0199,Shreya Iyer,Fail,side panel scuffed,EOL2,FIT3,0.0,0.5,225.0,Chennai Plant,4610690336,RGH40GF3A9HRJWYCS,MetroMoto,N,2026-04-23,2026-04-26
+DRI-202604-0200,Bhavna Shah,Fail,"fairing cracked, replace panel",VIS3,FIT3,2450.0,1.5,675.0,Chennai Plant,9855907492,W138MZ89TESETH8A1,Lumina Mobility,N,2026-04-16,2026-04-20
+DRI-202604-0201,Bhavna Shah,Fail,rear cowl dented on edge,ROAD1,PAINT2,0.0,0.75,337.5,Chennai Plant,4665417862,6MDMMMYJYW7CLMALS,MetroMoto,N,2026-04-19,2026-04-24
+DRI-202604-0202,Arjun Pillai,Fail,exhaust mount bolt not torqued,VIS3,CHS1,0.0,0.5,225.0,Hosur Plant,1441280475,G2XJVHHZMZSTW0N5T,Apex Moto,Y,2026-04-07,2026-04-10
+DRI-202604-0203,Aarav Nair,Fail,water in headlamp housing,VIS3,SEAL1,950.0,1.25,562.5,Pune Plant,7859229401,819Z317MDSBZDAXHM,Crestline Riders,N,2026-04-20,2026-04-23
+DRI-202604-0204,Manoj Pillai,Fail,oil wetness below clutch cover,PDI2,ENG1,520.0,1.0,450.0,Chennai Plant,7789160970,ZGASEH45UC2EPD61R,Eastway Motors,Y,2026-04-01,2026-04-04
+DRI-202604-0205,Aditi Rao,Fail,footrest bracket screw loose,FQA1,FIT2,0.0,0.25,112.5,Pune Plant,8730018011,DEPZVR7BD4X2ATAFC,Helix Mobility,N,2026-04-29,2026-05-03
+DRI-202604-0206,Rahul Menon,Fail,"fairing cracked, replace panel",PDI2,FIT3,2450.0,1.5,675.0,Hosur Plant,8850124241,FUDTLVYM61AN0JB0V,Falcon Fleet,N,2026-04-16,2026-04-19
+DRI-202604-0207,Deepa Krishnan,Fail,chain tension uneven,ROAD1,DRIV2,0.0,0.5,225.0,Hosur Plant,4675905639,FZ991VCR2EMS1VJPR,Indigo Rides,Y,2026-04-25,2026-04-30
+DRI-202604-0208,Naveen Das,Fail,front caliper bolt loose,PDI2,BRAKE2,0.0,0.5,225.0,Manesar Plant,7938722623,XN6MBZRKCFAX2LYYC,Orbit Wheels,Y,2026-04-18,2026-04-23
+DRI-202604-0209,Aditi Rao,Fail,side panel scuffed,FQA1,FIT3,0.0,0.5,225.0,Pune Plant,8710896127,992SC6CS18CX3LBM2,Eastway Motors,N,2026-04-17,2026-04-22
+DRI-202604-0210,Aarav Nair,Pass,Final check clear,VIS3,,0.0,0.0,0.0,Hosur Plant,5261979456,Y2U9YKA4LHU6YJZ0X,Delta Wheels,N,2026-04-11,
+DRI-202604-0211,Deepa Krishnan,Fail,footrest bracket screw loose,FQA1,FIT2,0.0,0.25,112.5,Manesar Plant,7821439539,CAX7AVWD2YEVR4T2E,Falcon Fleet,N,2026-04-06,2026-04-07
+DRI-202604-0212,Ishaan Verma,Pass,Final check clear,EOL2,,0.0,0.0,0.0,Hosur Plant,5939533165,ZZ9ZLX6L5SMXWNYHW,Orbit Wheels,N,2026-04-08,
+DRI-202604-0213,Naveen Das,Fail,exposed wire near battery,FQA1,ELEC2,420.0,1.0,450.0,Hosur Plant,6447165060,CE4MNUFWGD2L50JC5,Delta Wheels,Y,2026-04-27,2026-05-01
+DRI-202604-0214,Bhavna Shah,Fail,rear cowl dented on edge,PDI2,PAINT2,0.0,0.75,337.5,Pune Plant,7823688564,T4KWT1H3FKYYEYKF6,Helix Mobility,N,2026-04-01,2026-04-05
+DRI-202604-0215,Gauri Desai,Fail,tail lamp cuts during test,FQA1,ELEC1,560.0,1.0,450.0,Pune Plant,4148439236,LV7L8R9MCA9PEKNVB,Indigo Rides,Y,2026-04-27,2026-04-30
+DRI-202604-0216,Aarav Nair,Fail,right mirror angle won't hold,EOL2,FIT1,320.0,0.5,225.0,Pune Plant,2686458974,RJBC12ATYABNFLNA0,KiteRoad,N,2026-04-16,2026-04-17
+DRI-202604-0217,Tarun Patel,Fail,horn harness pinched,PDI2,ELEC1,340.0,0.75,337.5,Pune Plant,7788359341,LMNUFK7PTESLA19L0,Eastway Motors,N,2026-04-10,2026-04-15
+DRI-202604-0218,Harish Kumar,Fail,engine oil leak at gasket,FQA1,ENG1,650.0,1.25,562.5,Chennai Plant,1248775268,5WGV4BAX0951WVKTT,GrandTrail,Y,2026-04-20,2026-04-23
+DRI-202604-0219,Chirag Patel,Fail,engine oil leak at gasket,FQA1,ENG1,650.0,1.25,562.5,Manesar Plant,7003585379,8XPFR3BHAHHXH18L1,BlueRoute Mobility,Y,2026-04-06,2026-04-09
+DRI-202604-0220,Ananya Iyer,Fail,chain tension uneven,PDI2,DRIV2,0.0,0.5,225.0,Pune Plant,8588218088,ZW4LYCHEW131YRKXR,BlueRoute Mobility,Y,2026-04-29,2026-05-03
+DRI-202604-0221,Deepa Krishnan,Pass,Final check clear,VIS3,,0.0,0.0,0.0,Hosur Plant,1133820039,FADKUNC2ZFMHBZHZ4,KiteRoad,N,2026-04-21,
+DRI-202604-0222,Meera Joshi,Fail,mirror stalk loose at mount,FQA1,FIT1,0.0,0.25,112.5,Chennai Plant,3471134681,T424UKB9PH1D4DMC3,Eastway Motors,N,2026-04-07,2026-04-10
+DRI-202604-0223,Pranav Kulkarni,Fail,footrest bracket screw loose,VIS3,FIT2,0.0,0.25,112.5,Hosur Plant,2809200195,B2M3P55HYWA2NLBUE,Eastway Motors,N,2026-04-08,2026-04-09
+DRI-202604-0224,Varun Nair,Fail,rain test shows water near meter,EOL2,SEAL2,240.0,0.75,337.5,Hosur Plant,2815003262,XDEGXJS5UA6HWSPCW,BlueRoute Mobility,N,2026-04-18,2026-04-22
+DRI-202604-0225,Aditi Rao,Fail,rain test shows water near meter,EOL2,SEAL2,240.0,0.75,337.5,Hosur Plant,3265977202,L6LGKLRDEKAXTGMLE,Indigo Rides,N,2026-04-10,2026-04-12
+DRI-202604-0226,Akash Menon,Fail,water seep by side panel seal,FQA1,SEAL2,310.0,0.75,337.5,Chennai Plant,4417097158,84FC4YR8WA9Y8L118,Falcon Fleet,N,2026-04-07,2026-04-11
+DRI-202604-0227,Aarav Nair,Fail,tail lamp cuts during test,PDI2,ELEC1,560.0,1.0,450.0,Manesar Plant,1979048220,2UP7RAS4K9A7SW4NM,Helix Mobility,Y,2026-04-19,2026-04-20
+DRI-202604-0228,Nikhil Jain,Fail,water seep by side panel seal,FQA1,SEAL2,310.0,0.75,337.5,Chennai Plant,4742949477,WR8FMNHHD9EDE20VB,Crestline Riders,N,2026-04-04,2026-04-07
+DRI-202604-0229,Pranav Kulkarni,Fail,chain off center at rear sprocket,EOL2,DRIV1,0.0,0.75,337.5,Manesar Plant,6565525658,ZXZ6ARZY5L4PEUTUB,Indigo Rides,Y,2026-04-02,2026-04-04
+DRI-202604-0230,Shreya Iyer,Fail,right mirror angle won't hold,ROAD1,FIT1,320.0,0.5,225.0,Manesar Plant,1362895954,KPRAGCVA19PCJFLXD,Eastway Motors,N,2026-04-26,2026-04-29
+DRI-202604-0231,Lakshmi Rao,Fail,oil drip near drain bolt,FQA1,ENG2,85.0,0.5,225.0,Hosur Plant,6169317325,EVTYGX1JC2L7CZPML,GrandTrail,Y,2026-04-01,2026-04-03
+DRI-202604-0232,Varun Nair,Fail,chain off center at rear sprocket,ROAD1,DRIV1,0.0,0.75,337.5,Manesar Plant,6947083374,D6EGUZLRX72W5KEJX,Crestline Riders,Y,2026-04-05,2026-04-06
+DRI-202604-0233,Varun Nair,Fail,exposed wire near battery,PDI2,ELEC2,420.0,1.0,450.0,Hosur Plant,7575102757,GGM1K47VCFKJNAYNG,Apex Moto,Y,2026-04-28,2026-04-29
+DRI-202604-0234,Nikhil Jain,Fail,exposed wire near battery,FQA1,ELEC2,420.0,1.0,450.0,Manesar Plant,4917221541,5YU63RE9NWN439ENG,Apex Moto,Y,2026-04-24,2026-04-27
+DRI-202604-0235,Arjun Pillai,Fail,front brake hose kinked,FQA1,BRAKE1,720.0,1.0,450.0,Chennai Plant,6752211372,PEF9RJWTN8LPZ867M,Indigo Rides,Y,2026-04-27,2026-04-29
+DRI-202604-0236,Ananya Iyer,Fail,mirror stalk loose at mount,PDI2,FIT1,0.0,0.25,112.5,Manesar Plant,7523681065,T7MFAUND9UKG2F8ZB,Orbit Wheels,N,2026-04-06,2026-04-11
+DRI-202604-0237,Deepa Krishnan,Fail,right mirror angle won't hold,PDI2,FIT1,320.0,0.5,225.0,Pune Plant,9446789654,KMVTP0DVCKSWHJFSC,BlueRoute Mobility,N,2026-04-23,2026-04-25
+DRI-202604-0238,Sana Khan,Fail,water in headlamp housing,FQA1,SEAL1,950.0,1.25,562.5,Pune Plant,3347977123,FPK11UN0SE5A7RZ8Z,Apex Moto,N,2026-04-30,2026-05-02
+DRI-202604-0239,Rahul Menon,Pass,Final check clear,PDI2,,0.0,0.0,0.0,Hosur Plant,9782061632,3MC4R8PR5AE5L1TYM,BlueRoute Mobility,N,2026-04-14,
+DRI-202604-0240,Aditi Rao,Pass,Final check clear,FQA1,,0.0,0.0,0.0,Manesar Plant,2260108602,ZFBMS8DUMRE0JDPKW,BlueRoute Mobility,N,2026-04-24,
+DRI-202604-0241,Gauri Desai,Fail,"tank dent, polish only",FQA1,PAINT2,0.0,0.75,337.5,Pune Plant,2963153449,KZ3SEEJRHFZW0XC4K,Delta Wheels,N,2026-04-18,2026-04-20
+DRI-202604-0242,Gauri Desai,Fail,brake fluid low at final check,FQA1,BRAKE1,120.0,0.5,225.0,Chennai Plant,5172413186,KMR6J47URF1T8V7YR,BlueRoute Mobility,Y,2026-04-02,2026-04-06
+DRI-202604-0243,Chirag Patel,Fail,indicator connector half seated,EOL2,ELEC2,0.0,0.5,225.0,Pune Plant,5022370931,CWN2Y3GDGKYCR92ZZ,KiteRoad,N,2026-04-09,2026-04-12
+DRI-202604-0244,Diya Thomas,Pass,Final check clear,ROAD1,,0.0,0.0,0.0,Pune Plant,9493189409,W84A2Y7PW6UGP4JK8,Helix Mobility,N,2026-04-13,
+DRI-202604-0245,Rhea Dsouza,Fail,footrest bracket screw loose,PDI2,FIT2,0.0,0.25,112.5,Pune Plant,8788895724,UM4XYJJ3JWSZHZ2UZ,Orbit Wheels,N,2026-04-11,2026-04-12
+DRI-202604-0246,Tanvi Shah,Pass,Final check clear,FQA1,,0.0,0.0,0.0,Chennai Plant,7092950567,G8VELN1LWGNP237EY,GrandTrail,N,2026-04-04,
+DRI-202604-0247,Dev Malhotra,Fail,horn harness pinched,FQA1,ELEC1,340.0,0.75,337.5,Pune Plant,7993576122,91TRP3ZDTC1ZPHMH9,Apex Moto,N,2026-04-22,2026-04-25
+DRI-202604-0248,Naveen Das,Pass,Final check clear,EOL2,,0.0,0.0,0.0,Pune Plant,7055585266,UY1FN0GG8R3GBG2J6,Delta Wheels,N,2026-04-21,
+DRI-202604-0249,Aditi Rao,Fail,rear wheel misaligned,PDI2,DRIV1,0.0,0.75,337.5,Manesar Plant,8131374264,2RERPDREHCZPV25WY,Orbit Wheels,Y,2026-04-23,2026-04-27
+DRI-202604-0250,Rahul Menon,Fail,engine oil leak at gasket,FQA1,ENG1,650.0,1.25,562.5,Hosur Plant,8784566068,BGZJS8CYY7MDK6N9T,Indigo Rides,Y,2026-04-29,2026-05-02
